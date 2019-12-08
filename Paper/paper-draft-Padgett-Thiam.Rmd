@@ -115,6 +115,9 @@ We are interested in whether Twitter data and Google trends data could be used t
 
 ## Data
 
+For Twitter data, we used the rtweet package to pull tweets within the specifed timeframe. We also used the tidyverse package through to manipulate the data, pander package   
+
+
 This section describes the data sources and the data gathering process.
 
 ### Twitter
